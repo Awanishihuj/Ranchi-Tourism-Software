@@ -1,9 +1,10 @@
 Install and run Developed By Awanish Kumar 
 
-This software is still under development update virsion you will get soon 
-till please Rate my work The whole software is Developed in Tkinter 
+This software is still under development updated virsion you will get soon 
+Till please Rate my work The whole software is Developed in Tkinter Module python
+ 
 Run The setup In your Pc 
 
-thank you 
+Thank You 
 Awanish Kumar 
-Student Of Sarala Birla unoversity,Ranchi,Jharkhand
+Student Of Sarala Birla university,Ranchi,Jharkhand
